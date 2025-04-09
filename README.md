@@ -26,7 +26,7 @@ Implement a red square that moves smoothly to the **left** or **right** edge of 
 
 ## 🧠 Implementation Notes
 
-- Uses `AnimatedAlign` to smoothly move the square.
+- Uses `AnimatedContainer` to smoothly move the square.
 - Logic ensures proper button enabling/disabling.
 - Animation status is tracked to disable controls during movement.
 
